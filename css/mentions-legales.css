@@ -1,0 +1,19 @@
+main > div {
+  background: white;
+  width: 80%;
+  padding: 20px;
+  box-shadow: 3px 3px 10px rgb(220, 220, 220);
+  margin: 40px auto;
+}
+main > div h1 {
+  font-family: Spinnaker;
+  text-align: center;
+}
+main > div h2 {
+  font-family: Spinnaker;
+}
+main > div p {
+  font-family: Nunito;
+}
+
+/*# sourceMappingURL=mentions-legales.css.map */
